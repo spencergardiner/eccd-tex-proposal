@@ -1,0 +1,18 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is '/Users/research/PycharmProjects/r21_proposal_dissertation/research_strategy.blg'
+[42] biber-darwin:342> INFO - === Thu Apr 16, 2026, 05:54:10
+[51] Biber.pm:421> INFO - Reading '/Users/research/PycharmProjects/r21_proposal_dissertation/research_strategy.bcf'
+[109] Biber.pm:1002> INFO - Found 71 citekeys in bib section 0
+[118] Biber.pm:4487> INFO - Processing section 0
+[124] Biber.pm:4678> INFO - Looking for bibtex file 'Dissertation.bib' for section 0
+[140] bibtex.pm:1713> INFO - LaTeX decoding ...
+[454] bibtex.pm:1519> INFO - Found BibTeX data source 'Dissertation.bib'
+[1044] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1044] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1044] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1044] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[1078] bbl.pm:676> INFO - Writing '/Users/research/PycharmProjects/r21_proposal_dissertation/research_strategy.bbl' with encoding 'UTF-8'
+[1118] bbl.pm:779> INFO - Output to /Users/research/PycharmProjects/r21_proposal_dissertation/research_strategy.bbl
+[1118] Biber.pm:132> WARN - Possible typo (case mismatch) between datasource keys: 'didi_Scaling_2026' and 'didi_SCALING_2026' in file 'Dissertation.bib'
+[1118] Biber.pm:132> WARN - Possible typo (case mismatch) between datasource keys: 'didi_Scaling_2026a' and 'didi_SCALING_2026a' in file 'Dissertation.bib'
+[1118] Biber.pm:134> INFO - WARNINGS: 2
